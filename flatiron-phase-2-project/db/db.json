@@ -1,0 +1,227 @@
+{
+    "musicians": [
+      {
+          "name": "Sir Elton John",
+          "age": 75,
+          "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Elton_John_2011_Shankbone_2_%28cropped%29.JPG/440px-Elton_John_2011_Shankbone_2_%28cropped%29.JPG",
+          "fact":"Nicknamed the 'Rocket Man' because of his song, 'Rocket Man'. ",
+          "genres":"Rock"
+      },
+      {
+          "name":"Madonna",
+          "age":"Unknown",
+          "image":"http://tny.im/t8l",
+          "fact":"Madonna has been cool since before her name was Madonna. She's the definitive, 'Queen of Pop'.",
+          "genres":"Pop"
+      },
+      {
+          "name":"Stevie Wonder",
+          "age":72,
+          "image":"http://tny.im/t8m",
+          "fact":"Stevie Wonder went blind shortly after birth. He also signed a record deal with Motown's Tamla label shortl after birth, relatviely, at the young age of 11.",
+          "genres":"Funk"
+      },
+      {
+          "name":"Taylor Swift",
+          "age":32,
+          "image":"http://tny.im/t8n",
+          "fact":"Taylor Swift released her wildly successful debut album at 14 and has had success across several genres, maintaining an incredibly loyal fanbase.",
+          "genres":"Pop"
+      },
+  
+      {
+          "name":"Prince",
+          "age": 57,
+          "image":"http://tny.im/t8o",
+          "fact":"Prince wrote his first song, titled 'Funk Machine,' on his father's piano when he was only seven years old.",
+          "genres":"Rock"
+      },
+      {
+          "name":"Beyonce",
+          "age":40,
+          "image":"http://tny.im/t8p",
+          "fact":"Beyoncé rose to fame in the late 1990s as the lead singer of Destiny's Child, one of the best-selling girl groups of all time. She has been one of the biggest Pop stars of our time.",
+          "genres":"Pop"
+      },
+      {
+          "name":"Dolly Parton",
+          "age":76,
+          "image":"http://tny.im/t8q",
+          "fact":"Dolly Parton has been releasing music since the late 60s and has established herself as fixture in American Country Music.",
+          "genres":"Country"
+      },
+      {
+          "name":"Johnny Cash",
+          "age":71,
+          "image":"http://tny.im/t8r",
+          "fact":"In the late 50s Cash started playong concerts at prisons and recorded two famous live shows at San Quentin and Folsom Prison. ",
+          "genres":"Country"
+      },
+      {
+          "name":"Olivia Rodrigo",
+          "age":19,
+          "image":"",
+          "fact":"After beginning her career as a part of the Disney Child Star machine, she began releasing music in 2020 and has achieved two Billboard Hot 100 number-one singles.",
+          "genres":"Pop"
+      },
+      {
+          "name":"Drake",
+          "age":35,
+          "image":"",
+          "fact":"Drake is Canadian.",
+          "genres":"Rap"
+      },
+      {
+          "name":"Harry Styles",
+          "age":28,
+          "image":"",
+          "fact":"Harry Styles started his career in failure. He was eliminated from the show, The X Factor. He was later brought back to join the boy band, One Direction. After some success, he went solo, where he found even more.",
+          "genres":"Pop"
+      },
+      {
+          "name":"MF Doom",
+          "age":49,
+          "image":"",
+          "fact":"DOOM began rapping under the name MF Doom in the late 90s at open mic events where he wore his infamous metal Dr. Doom mask. He was rarely seen not wearing it.",
+          "genres":"Rap"
+      },
+      {
+          "name":"Lady Gaga",
+          "age":36,
+          "image":"",
+          "fact":"Lady Gaga sings and acts. She's great at both. Her debut album is, 'The Fame,' which features two chart-topping sigles, 'Just Dance' and Poker Face'.",
+          "genres":"Pop"
+      },
+      {
+          "name":"George Harrison",
+          "age": 58,
+          "image":"",
+          "fact":"George was in The Beatles, a popular English Rock n' Roll Band from the 60s. He was good at guitar and released successful solo albums.",
+          "genres":"Rock"
+      },
+      {
+          "name":"Jerry Garcia",
+          "age":53,
+          "image":"",
+          "fact":"Jerry was one of the founding members, and occassional 'leader', of the band, Grateful Dead.  He liked to jam/improvise.",
+          "genres":"Psych"
+      },
+      {
+          "name":"Terry Allen",
+          "age":79,
+          "image":"",
+          "fact":"Terry Allen is a scukpture artist as well as an outlaw country singer-songwriter. He has worked with many musicians from David Byrne to Guy Clark.",
+          "genres":"Country"
+      },
+      {
+          "name":"Kate Bush",
+          "age":64,
+          "image":"",
+          "fact":"Kate Bush's song, 'Runing Up That Hill' is just one of many songs she wrote throughout her career. ",
+          "genres":"Pop"
+      },
+      {
+          "name":"",
+          "age":"",
+          "image":"",
+          "fact":",",
+          "genres":""
+      },
+      {
+          "name":"",
+          "age":"",
+          "image":"",
+          "fact":","
+      },
+      {
+          "name":"",
+          "age":"",
+          "image":"",
+          "fact":","
+      },
+      {
+          "name":"",
+          "age":"",
+          "image":"",
+          "fact":","
+      },
+      {
+          "name":"",
+          "age":"",
+          "image":"",
+          "fact":","
+      },
+      {
+          "name":"",
+          "age":"",
+          "image":"",
+          "fact":","
+      },
+      {
+          "name":"",
+          "age":"",
+          "image":"",
+          "fact":",",
+          "genres":""
+      },
+      {
+          "name":"",
+          "age":"",
+          "image":"",
+          "fact":",",
+          "genres":""
+      },
+      {
+          "name":"",
+          "age":"",
+          "image":"",
+          "fact":",",
+          "genres":""
+      },
+      {
+          "name":"",
+          "age":"",
+          "image":"",
+          "fact":",",
+          "genres":""
+      },
+      {
+          "name":"",
+          "age":"",
+          "image":"",
+          "fact":",",
+          "genres":""
+      },
+      {
+          "name":"",
+          "age":"",
+          "image":"",
+          "fact":",",
+          "genres":""
+      },
+      {
+          "name":"",
+          "age":"",
+          "image":"",
+          "fact":",",
+          "genres":""
+      },
+      {
+          "name":"",
+          "age":"",
+          "image":"",
+          "fact":",",
+          "genres":""
+      },
+      {
+          "name":"",
+          "age":"",
+          "image":"",
+          "fact":",",
+          "genres":""
+      }
+  
+  
+      ]
+  }
+  
